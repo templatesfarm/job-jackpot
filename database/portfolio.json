@@ -63,52 +63,18 @@
     "displayName": "Timeline",
     "projects": [
       {
-        "timeline": "Jul'04-Jun'07",
-        "projectName": "Intuit Quickbooks Online",
-        "headline1": "Intuit Quickbooks Online",
-        "headline2": "I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends . I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends",
-        "designation": "Software Engineer",
+        "timeline": "Jul 2019 – Dec 2022",
+        "projectName": " E-commerce Web Platform",
+        "headline1": "Built and optimized a high-traffic e-commerce platform.",
+        "headline2": "Developed a microservices architecture for scalability.",
+        "designation": "Software Engineer (Full Stack Developer)",
         "link": {
-          "linkUrl": "https://originui.com/badge",
-          "linkText": "Click here for the Project"
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
         },
-        "cover": "",
-        "skills": "ReactJS, TypeScript, Redux, PWA",
-        "companyName": "Intuit",
-        "clientName": "",
-        "images": [
-          {
-            "fileName": "cartoon_male_who_is_professional_sitting_at.jpeg",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/cartoon_male_who_is_professional_sitting_at.jpeg"
-          },
-          {
-            "fileName": "cartoon_professional_girl_who_is_indian_sitting.jpeg",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/cartoon_professional_girl_who_is_indian_sitting.jpeg"
-          },
-          {
-            "fileName": "NewLogo.jpeg",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/NewLogo.jpeg"
-          }
-        ],
-        "rank": "1"
-      },
-      {
-        "timeline": "2022-24",
-        "projectName": "Lowe's Cart",
-        "headline1": "I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends . I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends",
-        "headline2": "I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends . I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends",
-        "designation": "Lead Software Engineer",
-        "link": "",
-        "cover": "",
-        "skills": "ReactJS, TypeScript, Redux, PWA",
-        "companyName": "Lowe's",
-        "clientName": "",
-        "images": [
-          {
-            "fileName": "cartoon_male_who_is_professional_sitting_at.jpeg",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/cartoon_male_who_is_professional_sitting_at.jpeg"
-          }
-        ],
+        "skills": "React.js, Node.js, MongoDB, Docker, AWS",
+        "companyName": "Infosys",
+        "images": [],
         "rank": "2"
       }
     ]
