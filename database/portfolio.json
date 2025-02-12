@@ -47,29 +47,9 @@
       {
         "name": "ReactJS",
         "rating": 8.5
-      },
-      {
-        "name": "ReactJS",
-        "rating": 8.5
-      },
-      {
-        "name": "ReactJS",
-        "rating": 8.5
-      },
-      {
-        "name": "ReactJS",
-        "rating": 8.5
-      },
-      {
-        "name": "ReactJS",
-        "rating": 8.5
-      },
-      {
-        "name": "ReactJS",
-        "rating": 8.5
       }
     ],
-    "showMovingSkills": true
+    "showMovingSkills": false
   },
   "projectsInfo": {
     "displayName": "Timeline",
