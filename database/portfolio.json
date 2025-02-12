@@ -47,6 +47,14 @@
       {
         "name": "ReactJS",
         "rating": 8.5
+      },
+      {
+        "name": "MongoDB",
+        "rating": 8.5
+      },
+      {
+        "name": "Angular",
+        "rating": 8.5
       }
     ],
     "showMovingSkills": false
