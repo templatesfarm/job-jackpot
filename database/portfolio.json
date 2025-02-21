@@ -1,0 +1,226 @@
+{
+  "personalInfo": {
+    "displayName": "",
+    "name": "Maya ",
+    "contactNumber": "9876543210",
+    "email": "maya@gmail.com",
+    "socialMedia": {
+      "linkedIn": "https://www.linkedin.com/",
+      "github": "https://github.com/",
+      "youtube": "https://www.youtube.com/",
+      "xdotcom": "",
+      "instagram": "https://www.instagram.com/",
+      "facebook": ""
+    },
+    "resumeName": "Maya_CV.pdf",
+    "gender": "Female"
+  },
+  "heroInfo": {
+    "displayName": "",
+    "message": "Hi! I am Maya.",
+    "introduction": "Full Stack Engineer, Backend Developer, Frontend Developer, AI Enthusiast",
+    "description": "Passionate Full Stack Developer with expertise in designing, developing, and deploying scalable web applications. Skilled in frontend and backend technologies, cloud services, and DevOps practices."
+  },
+ "skillsInfo": {
+    "displayName": "Specialization",
+    "skills": [
+      {
+        "id": "1740119643767",
+        "name": "Github Actions",
+        "rating": 8.5
+      },
+      {
+        "id": "1740119645963",
+        "name": "Aceternity UI",
+        "rating": 9.5
+      },
+      {
+        "id": "1740151697699",
+        "name": "TypeScript",
+        "rating": 8.5
+      },
+      {
+        "id": "1740151709959",
+        "name": "Shadcn UI",
+        "rating": 7.5
+      },
+      {
+        "id": "1740151713824",
+        "name": "Vercel",
+        "rating": 9
+      },
+      {
+        "id": "1740151723790",
+        "name": "People Management",
+        "rating": 8.5
+      },
+      {
+        "id": "1740155431358",
+        "name": "Google Gemini",
+        "rating": 8
+      },
+      {
+        "id": "1740155437089",
+        "name": "ChatGPT",
+        "rating": 8
+      },
+      {
+        "id": "1740155442637",
+        "name": "AI Tools",
+        "rating": 8
+      },
+      {
+        "id": "1740155446851",
+        "name": "Java",
+        "rating": 5
+      },
+      {
+        "id": "1740155451149",
+        "name": "Typescript",
+        "rating": 5
+      },
+      {
+        "id": "1740155464239",
+        "name": "GoLang",
+        "rating": 9
+      },
+      {
+        "id": "1740155468891",
+        "name": "Magic UI",
+        "rating": 5
+      },
+      {
+        "id": "1740155473903",
+        "name": "Aceternity UI",
+        "rating": 5
+      },
+      {
+        "id": "1740155477177",
+        "name": "Origin UI",
+        "rating": 5
+      },
+      {
+        "id": "1740155479902",
+        "name": "React",
+        "rating": 5
+      },
+      {
+        "id": "1740155482925",
+        "name": "React Native",
+        "rating": 5
+      },
+      {
+        "id": "1740155487583",
+        "name": "VS COde",
+        "rating": 5
+      }
+    ],
+    "skillAnimationType": "moving-animation"
+  },
+  "achievementsInfo": {
+    "displayName": "Achievements",
+    "listOfAchievements": [
+      {
+        "id": "1740113192880",
+        "text": "Data Science",
+        "type": "award",
+        "name": "Data Science",
+        "rating": "certificate"
+      },
+      {
+        "id": "1740113167269",
+        "text": "Employee of the Month",
+        "type": "other"
+      },
+      {
+        "id": "1740113198809",
+        "text": "AI Course",
+        "type": "certificate",
+        "name": "AI Coursesdf",
+        "rating": "other"
+      },
+      {
+        "id": "1740113207745",
+        "text": "Digital Marketing Leader in College",
+        "type": "award"
+      }
+    ]
+  },
+  "projectsInfo": {
+    "displayName": "Timeline",
+    "projects": [
+      {
+        "timeline": "Jan'23 – Present",
+        "projectName": "AWS Cloud Dashboard",
+        "headline1": "Designed cloud-native applications with AWS Lambda & DynamoDB.",
+        "headline2": "Implemented CI/CD pipelines for automated deployments.",
+        "designation": "Full Stack Developer (Cloud & Web Development)",
+        "link": {
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
+        },
+        "skills": "Next.js, TypeScript, AWS Lambda, Terraform, GraphQL",
+        "companyName": "Amazon",
+        "images": [
+          {
+            "fileName": "fs2.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs2.png"
+          },
+          {
+            "fileName": "fs3.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs3.png"
+          }
+        ]
+      },
+      {
+        "timeline": "Jul'19 – Dec'22",
+        "projectName": " E-commerce Web Platform",
+        "headline1": "Built and optimized a high-traffic e-commerce platform.",
+        "headline2": "Developed a microservices architecture for scalability.",
+        "designation": "Software Engineer (Full Stack Developer)",
+        "link": {
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
+        },
+        "skills": "React.js, Node.js, MongoDB, Docker, AWS",
+        "companyName": "Infosys",
+        "images": [
+          {
+            "fileName": "fs1.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs1.png"
+          },
+          {
+            "fileName": "fs4.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs4.png"
+          },
+          {
+            "fileName": "fs5.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs5.png"
+          }
+        ],
+        "rank": "2"
+      }
+    ]
+  },
+  "qualificationInfo": {
+    "displayName": "Qualifications",
+    "qualifications": [
+      {
+        "timeline": "2015-2019",
+        "courseName": " Bachelor of Technology (B.Tech)",
+        "instituteName": "Indian Institute of Technology (IIT) Bombay",
+        "specializedIn": "Computer Science",
+        "yearPassout": "2019",
+        "headline1": "Graduated with First-Class Distinction in B.Tech CSE.",
+        "headline2": "Won Hackathon at IIT Bombay (1st Prize).",
+        "cgpa": "9.2",
+        "link": {
+          "linkText": "Degree",
+          "linkUrl": "https://github.com/"
+        },
+        "images": [],
+        "rank": "3"
+      }
+    ]
+  }
+}
