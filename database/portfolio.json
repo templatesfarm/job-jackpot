@@ -101,55 +101,18 @@
     "displayName": "Timeline",
     "projects": [
       {
-        "timeline": "Jan'23 – Present",
-        "projectName": "AWS Cloud Dashboard",
-        "headline1": "Designed cloud-native applications with AWS Lambda & DynamoDB.",
-        "headline2": "Implemented CI/CD pipelines for automated deployments.",
-        "designation": "Full Stack Developer (Cloud & Web Development)",
+        "timeline": "Sept'23 - Present",
+        "projectName": "Blackhawk Network",
+        "headline1": "Worked on project",
+        "headline2": "managed work in 2 teams",
+        "designation": "Software Engineer",
         "link": {
-          "linkText": "Link",
-          "linkUrl": "https://originui.com/badge"
+          "linkText": "",
+          "linkUrl": ""
         },
-        "skills": "Next.js, TypeScript, AWS Lambda, Terraform, GraphQL",
-        "companyName": "Amazon",
-        "images": [
-          {
-            "fileName": "fs2.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs2.png"
-          },
-          {
-            "fileName": "fs3.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs3.png"
-          }
-        ]
-      },
-      {
-        "timeline": "Jul'19 – Dec'22",
-        "projectName": " E-commerce Web Platform",
-        "headline1": "Built and optimized a high-traffic e-commerce platform.",
-        "headline2": "Developed a microservices architecture for scalability.",
-        "designation": "Software Engineer (Full Stack Developer)",
-        "link": {
-          "linkText": "Link",
-          "linkUrl": "https://originui.com/badge"
-        },
-        "skills": "React.js, Node.js, MongoDB, Docker, AWS",
-        "companyName": "Infosys",
-        "images": [
-          {
-            "fileName": "fs1.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs1.png"
-          },
-          {
-            "fileName": "fs4.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs4.png"
-          },
-          {
-            "fileName": "fs5.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs5.png"
-          }
-        ],
-        "rank": "2"
+        "skills": "JS, ReactJS",
+        "companyName": "BHN",
+        "images": []
       }
     ]
   },
@@ -157,11 +120,11 @@
     "displayName": "Qualifications",
     "qualifications": [
       {
-        "timeline": "2015-2019",
+        "timeline": "2016-2020",
         "courseName": " Bachelor of Technology (B.Tech)",
-        "instituteName": "Indian Institute of Technology (IIT) Bombay",
-        "specializedIn": "Computer Science",
-        "yearPassout": "2019",
+        "instituteName": "Moradabad Institute of Technology",
+        "specializedIn": "",
+        "yearPassout": "2020",
         "headline1": "Graduated with First-Class Distinction in B.Tech CSE.",
         "headline2": "Won Hackathon at IIT Bombay (1st Prize).",
         "cgpa": "9.2",
