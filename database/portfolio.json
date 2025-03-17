@@ -25,14 +25,14 @@
     "displayName": "Specialization",
     "skills": [
       {
+        "id": "1740395651799",
+        "name": "React Native",
+        "rating": 7
+      },
+      {
         "id": "1740395657898",
         "name": "ReactJS",
         "rating": 5
-      },
-      {
-        "id": "1740395651799",
-        "name": "Angular",
-        "rating": 7
       },
       {
         "id": "1740395644199",
@@ -46,7 +46,7 @@
       },
       {
         "id": "1740395676065",
-        "name": "Tailwind CSS",
+        "name": "CSS",
         "rating": 8.5
       },
       {
@@ -56,38 +56,23 @@
       },
       {
         "id": "1740395695702",
-        "name": "Node.js",
+        "name": "HTML",
         "rating": 7.5
       },
       {
         "id": "1740395714800",
-        "name": "ASP.NET",
+        "name": "Bootstrap",
         "rating": 8
       },
       {
         "id": "1740395723281",
-        "name": "MySQL",
+        "name": "AEM",
         "rating": 8.5
-      },
-      {
-        "id": "1740395731715",
-        "name": "MongoDB",
-        "rating": 7
-      },
-      {
-        "id": "1740395743548",
-        "name": "Firebase",
-        "rating": 7.5
       },
       {
         "id": "1740395757214",
         "name": "Git",
         "rating": 8.5
-      },
-      {
-        "id": "1740395765849",
-        "name": "AWS",
-        "rating": 5
       }
     ],
     "skillAnimationType": "still-animation"
