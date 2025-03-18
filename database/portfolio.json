@@ -115,7 +115,7 @@
           "linkText": "",
           "linkUrl": ""
         },
-        "skills": "React Native, ReactJS, JS, SCSS, Adobe Experience Manager, HTML",
+        "skills": "React Native, ReactJS, JS, SCSS, Adobe Experience Manager, HTML, Redux",
         "companyName": "BHN",
         "images": []
       },
@@ -129,7 +129,7 @@
           "linkText": "",
           "linkUrl": ""
         },
-        "skills": "React Native, ReactJS, JS, SASS, HTML, GraphQL",
+        "skills": "React Native, ReactJS, JS, SASS, HTML, GraphQL, Redux, Saga",
         "companyName": "Infosys Limited",
         "images": []
       }
