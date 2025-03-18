@@ -118,6 +118,20 @@
         "skills": "ReactJS, JS, SCSS, AEM",
         "companyName": "BHN",
         "images": []
+      },
+      {
+        "timeline": "Jun'22 - Aug'23",
+        "projectName": "",
+        "headline1": "",
+        "headline2": "",
+        "designation": "",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "skills": "React Native, ReactJS, JS, SASS, HTML, GraphQL",
+        "companyName": "Infosys Limited",
+        "images": []
       }
     ]
   },
