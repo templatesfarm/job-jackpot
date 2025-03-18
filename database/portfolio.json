@@ -112,7 +112,12 @@
         },
         "skills": "React Native, ReactJS, JS, SCSS, Adobe Experience Manager, HTML, Redux",
         "companyName": "Blackhawk Network",
-        "images": []
+        "images": [
+          {
+            "fileName": "Screenshot 2025-03-18 at 5.46.17 PM.png",
+            "fileUrl": "https://raw.githubusercontent.com/hiwanis/job-jackpot/master/images/Screenshot%202025-03-18%20at%205.46.17%E2%80%AFPM.png"
+          }
+        ]
       },
       {
         "timeline": "Jun'22 - Sept'23",
