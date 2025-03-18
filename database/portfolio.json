@@ -70,6 +70,11 @@
         "rating": 8.5
       },
       {
+        "id": "1742281623613",
+        "name": "GraphQL",
+        "rating": 8
+      },
+      {
         "id": "1740395757214",
         "name": "Git",
         "rating": 8.5
