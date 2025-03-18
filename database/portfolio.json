@@ -142,14 +142,14 @@
         "timeline": "2016-2020",
         "courseName": " Bachelor of Technology (B.Tech)",
         "instituteName": "Moradabad Institute of Technology",
-        "specializedIn": "",
+        "specializedIn": "Electronics and Communication Engineering",
         "yearPassout": "2020",
-        "headline1": "Graduated with First-Class Distinction in B.Tech CSE.",
+        "headline1": "Graduated with First-Class Distinction in B.Tech ECE.",
         "headline2": "Won Hackathon at IIT Bombay (1st Prize).",
         "cgpa": "8.75",
         "link": {
-          "linkText": "Degree",
-          "linkUrl": "https://github.com/"
+          "linkText": "",
+          "linkUrl": ""
         },
         "images": [],
         "rank": "3"
