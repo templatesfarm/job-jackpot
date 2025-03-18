@@ -86,6 +86,11 @@
     "displayName": "Achievements",
     "listOfAchievements": [
       {
+        "id": "1742316933744",
+        "text": "Received recognition and appreciation from previous employers through thoughtful gifts, highlighting my contributions and commitment.",
+        "type": "award"
+      },
+      {
         "id": "1742316842496",
         "text": "Achieved 1st place in the district-level badminton tournament",
         "type": "certificate"
