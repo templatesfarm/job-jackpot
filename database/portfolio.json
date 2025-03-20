@@ -66,7 +66,7 @@
       },
       {
         "id": "1740395723281",
-        "name": "AEM",
+        "name": "Adobe Experience Manager",
         "rating": 8.5
       },
       {
@@ -78,6 +78,26 @@
         "id": "1740395757214",
         "name": "Git",
         "rating": 8.5
+      },
+      {
+        "id": "1742461688521",
+        "name": "Google Tag Manager",
+        "rating": 8
+      },
+      {
+        "id": "1742461698962",
+        "name": "Google Analytics",
+        "rating": 8
+      },
+      {
+        "id": "1742461741312",
+        "name": "Bitbucket",
+        "rating": 8
+      },
+      {
+        "id": "1742461749200",
+        "name": "Jira",
+        "rating": 8
       }
     ],
     "skillAnimationType": "still-animation"
