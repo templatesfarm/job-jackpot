@@ -1,0 +1,154 @@
+{
+  "personalInfo": {
+    "displayName": "",
+    "name": "Hiwani Singh",
+    "contactNumber": "8956037004",
+    "email": "hiwanis358@gmail.com",
+    "socialMedia": {
+      "linkedIn": "https://www.linkedin.com/in/hiwanisingh",
+      "github": "",
+      "youtube": "",
+      "xdotcom": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    "resumeName": "Hiwani-Singh.pdf",
+    "gender": "Female"
+  },
+  "heroInfo": {
+    "displayName": "",
+    "message": "Hi! I am Hiwani Singh.",
+    "introduction": "Software Engineer, React Native Developer, Frontend Developer, React Developer, Mobile App Developer, JavaScript Developer, UI/UX Developer, Web Developer, Cross-Platform Developer, Mobile UI Developer, App Development, Mobile Application Developer, Component-based Development",
+    "description": "Experienced Frontend Developer with 3 years in React Native, ReactJS, HTML, CSS, JavaScript, & State Management. Passionate about building responsive, user-friendly web & mobile apps. Collaborative, results-driven, and always staying up-to-date with trends."
+  },
+  "skillsInfo": {
+    "displayName": "Specialization",
+    "skills": [
+      {
+        "id": "1740395651799",
+        "name": "React Native",
+        "rating": 7
+      },
+      {
+        "id": "1740395657898",
+        "name": "ReactJS",
+        "rating": 5
+      },
+      {
+        "id": "1740395644199",
+        "name": "JavaScript",
+        "rating": 8
+      },
+      {
+        "id": "1740395667382",
+        "name": "Redux",
+        "rating": 8
+      },
+      {
+        "id": "1740395676065",
+        "name": "CSS",
+        "rating": 8.5
+      },
+      {
+        "id": "1740395685031",
+        "name": "SASS/SCSS",
+        "rating": 7.5
+      },
+      {
+        "id": "1740395695702",
+        "name": "HTML",
+        "rating": 7.5
+      },
+      {
+        "id": "1740395714800",
+        "name": "Bootstrap",
+        "rating": 8
+      },
+      {
+        "id": "1740395723281",
+        "name": "AEM",
+        "rating": 8.5
+      },
+      {
+        "id": "1742281623613",
+        "name": "GraphQL",
+        "rating": 8
+      },
+      {
+        "id": "1740395757214",
+        "name": "Git",
+        "rating": 8.5
+      }
+    ],
+    "skillAnimationType": "still-animation"
+  },
+  "achievementsInfo": {
+    "displayName": "Achievements",
+    "listOfAchievements": [
+      {
+        "id": "1742316933744",
+        "text": "Received recognition and appreciation from previous employers through thoughtful gifts, highlighting my contributions and commitment.",
+        "type": "award"
+      },
+      {
+        "id": "1742316842496",
+        "text": "Achieved 1st place in the district-level badminton tournament",
+        "type": "certificate"
+      }
+    ]
+  },
+  "projectsInfo": {
+    "displayName": "Timeline",
+    "projects": [
+      {
+        "timeline": "Sept'23 - Present",
+        "projectName": "Giftcards.com",
+        "headline1": "Contributed to website and mobile app development, collaborating with cross-functional teams to enhance user experiences, while efficiently managing workload across two teams.",
+        "headline2": "Gained expertise in ReactJS and React Native, improving website performance and mobile app functionality, while adapting to new tools and meeting tight deadlines.",
+        "designation": "Software Engineer",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "skills": "React Native, ReactJS, JS, SCSS, Adobe Experience Manager, HTML, Redux",
+        "companyName": "Blackhawk Network",
+        "images": []
+      },
+      {
+        "timeline": "Jun'22 - Sept'23",
+        "projectName": "",
+        "headline1": "Acquired hands-on experience as a React Native developer, contributing to the development of various dynamic application. Mastered UI components and state management using react-redux.",
+        "headline2": "Implemented usage of fragments and lazy loading of images for speedy app rendering. Introduced usage of advanced debugging and diagnosing tools and extensions like Reactotron, Chrome redux extension.",
+        "designation": "System Engineer",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "skills": "React Native, ReactJS, JS, SASS, HTML, GraphQL, Redux, Saga",
+        "companyName": "Infosys Limited",
+        "images": []
+      }
+    ]
+  },
+  "qualificationInfo": {
+    "displayName": "Qualifications",
+    "qualifications": [
+      {
+        "timeline": "2016-2020",
+        "courseName": " Bachelor of Technology (B.Tech)",
+        "instituteName": "Moradabad Institute of Technology",
+        "specializedIn": "Electronics and Communication Engineering",
+        "yearPassout": "2020",
+        "headline1": "Graduated with First-Class Distinction in B.Tech ECE.",
+        "headline2": "Won Hackathon at IIT Bombay (1st Prize).",
+        "cgpa": "8.75",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "images": [],
+        "rank": "3"
+      }
+    ]
+  }
+}
