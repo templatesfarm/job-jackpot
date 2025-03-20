@@ -18,7 +18,7 @@ export const POST = async (req: NextRequest) => {
     if (env.pwdResetKey && env.pwdResetKey === password) {
       count = limit;
       return NextResponse.json(
-        { message: "Password Reset key is valid" },
+        { message: "PASSWORD_RESET_KEY is valid" },
         { status: 200 }
       );
     }
@@ -27,7 +27,7 @@ export const POST = async (req: NextRequest) => {
       return NextResponse.json(
         {
           error:
-            "Validation limit exceeded. Use your Password Reset key from TemplatesFarm.com",
+            "Validation limit exceeded. Use your PASSWORD_RESET_KEY from TemplatesFarm.com",
           count,
         },
         { status: 403 }

@@ -30,7 +30,7 @@ const PasswordInput: React.FC = () => {
           if (data?.count < 4) {
             confirmationToast({
               title: data?.error,
-              subTitle: "Use AccessKey if password is forgotten.",
+              subTitle: "Use PASSWORD_RESET_KEY if password is forgotten.",
               isSuccess: false,
             });
           }
