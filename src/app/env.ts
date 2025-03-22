@@ -7,7 +7,7 @@ const env = {
   },
   baseUrl: String(process.env.NEXT_PUBLIC_BASE_URL),
   password: String(process.env.PINCODE),
-  accessKey: String(process.env.PORTFOLIO_ACCESS_KEY),
+  accessKey: String(process.env.NEXT_PUBLIC_PORTFOLIO_ACCESS_KEY),
   pwdResetKey: String(process.env.PASSWORD_RESET_KEY),
 };
 
