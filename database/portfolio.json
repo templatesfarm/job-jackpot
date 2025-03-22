@@ -1,38 +1,38 @@
 {
   "personalInfo": {
     "displayName": "",
-    "name": "Hiwani Singh",
-    "contactNumber": "8956037004",
-    "email": "hiwanis358@gmail.com",
+    "name": "Maya Pahwa",
+    "contactNumber": "9876543210",
+    "email": "mayapahwa@gmail.com",
     "socialMedia": {
-      "linkedIn": "https://www.linkedin.com/in/hiwanisingh",
-      "github": "",
-      "youtube": "",
+      "linkedIn": "https://www.linkedin.com/",
+      "github": "https://github.com/",
+      "youtube": "https://www.youtube.com/",
       "xdotcom": "",
-      "instagram": "",
+      "instagram": "https://www.instagram.com/",
       "facebook": ""
     },
-    "resumeName": "Hiwani-Singh.pdf",
+    "resumeName": "MayaPahwa-CV.pdf",
     "gender": "Female"
   },
   "heroInfo": {
     "displayName": "",
-    "message": "Hi! I am Hiwani Singh.",
-    "introduction": "Software Engineer, React Native Developer, Frontend Developer, React Developer, Mobile App Developer, JavaScript Developer, UI/UX Developer, Web Developer, Cross-Platform Developer, Mobile UI Developer, App Development, Mobile Application Developer, Component-based Development",
-    "description": "Experienced Frontend Developer with 3 years in React Native, ReactJS, HTML, CSS, JavaScript, & State Management. Passionate about building responsive, user-friendly web & mobile apps. Collaborative, results-driven, and always staying up-to-date with trends."
+    "message": "Hi! I am Maya.",
+    "introduction": "Full Stack Engineer, Backend Developer, Frontend Developer, AI Enthusiast",
+    "description": "Passionate Full Stack Developer with expertise in designing, developing, and deploying scalable web applications. Skilled in frontend and backend technologies, cloud services, and DevOps practices."
   },
   "skillsInfo": {
     "displayName": "Specialization",
     "skills": [
       {
-        "id": "1740395651799",
-        "name": "React Native",
-        "rating": 7
-      },
-      {
         "id": "1740395657898",
         "name": "ReactJS",
         "rating": 5
+      },
+      {
+        "id": "1740395651799",
+        "name": "Angular",
+        "rating": 7
       },
       {
         "id": "1740395644199",
@@ -46,7 +46,7 @@
       },
       {
         "id": "1740395676065",
-        "name": "CSS",
+        "name": "Tailwind CSS",
         "rating": 8.5
       },
       {
@@ -56,28 +56,38 @@
       },
       {
         "id": "1740395695702",
-        "name": "HTML",
+        "name": "Node.js",
         "rating": 7.5
       },
       {
         "id": "1740395714800",
-        "name": "Bootstrap",
+        "name": "ASP.NET",
         "rating": 8
       },
       {
         "id": "1740395723281",
-        "name": "AEM",
+        "name": "MySQL",
         "rating": 8.5
       },
       {
-        "id": "1742281623613",
-        "name": "GraphQL",
-        "rating": 8
+        "id": "1740395731715",
+        "name": "MongoDB",
+        "rating": 7
+      },
+      {
+        "id": "1740395743548",
+        "name": "Firebase",
+        "rating": 7.5
       },
       {
         "id": "1740395757214",
         "name": "Git",
         "rating": 8.5
+      },
+      {
+        "id": "1740395765849",
+        "name": "AWS",
+        "rating": 5
       }
     ],
     "skillAnimationType": "still-animation"
@@ -86,13 +96,18 @@
     "displayName": "Achievements",
     "listOfAchievements": [
       {
-        "id": "1742316933744",
-        "text": "Received recognition and appreciation from previous employers through thoughtful gifts, highlighting my contributions and commitment.",
+        "id": "1740396513085",
+        "text": "Recognized as a Top 10 Finalist in the GitHub Open Source Challenge for contributing to large-scale full-stack projects and optimizing existing frameworks.",
         "type": "award"
       },
       {
-        "id": "1742316842496",
-        "text": "Achieved 1st place in the district-level badminton tournament",
+        "id": "1740396546601",
+        "text": "Achieved MongoDB Certified Developer status, showcasing advanced knowledge of NoSQL database design, indexing, and query optimization.",
+        "type": "certificate"
+      },
+      {
+        "id": "1740396554434",
+        "text": "Earned AWS Certified Developer – Associate, demonstrating expertise in deploying and managing full-stack applications using AWS cloud services.",
         "type": "certificate"
       }
     ]
@@ -101,32 +116,55 @@
     "displayName": "Timeline",
     "projects": [
       {
-        "timeline": "Sept'23 - Present",
-        "projectName": "Giftcards.com",
-        "headline1": "Contributed to website and mobile app development, collaborating with cross-functional teams to enhance user experiences, while efficiently managing workload across two teams.",
-        "headline2": "Gained expertise in ReactJS and React Native, improving website performance and mobile app functionality, while adapting to new tools and meeting tight deadlines.",
-        "designation": "Software Engineer",
+        "timeline": "Jan'23 – Present",
+        "projectName": "AWS Cloud Dashboard",
+        "headline1": "Designed cloud-native applications with AWS Lambda & DynamoDB.",
+        "headline2": "Implemented CI/CD pipelines for automated deployments.",
+        "designation": "Full Stack Developer (Cloud & Web Development)",
         "link": {
-          "linkText": "",
-          "linkUrl": ""
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
         },
-        "skills": "React Native, ReactJS, JS, SCSS, Adobe Experience Manager, HTML, Redux",
-        "companyName": "Blackhawk Network",
-        "images": []
+        "skills": "Next.js, TypeScript, AWS Lambda, Terraform, GraphQL",
+        "companyName": "Amazon",
+        "images": [
+          {
+            "fileName": "fs2.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs2.png"
+          },
+          {
+            "fileName": "fs3.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs3.png"
+          }
+        ]
       },
       {
-        "timeline": "Jun'22 - Sept'23",
-        "projectName": "",
-        "headline1": "Acquired hands-on experience as a React Native developer, contributing to the development of various dynamic application. Mastered UI components and state management using react-redux.",
-        "headline2": "Implemented usage of fragments and lazy loading of images for speedy app rendering. Introduced usage of advanced debugging and diagnosing tools and extensions like Reactotron, Chrome redux extension.",
-        "designation": "System Engineer",
+        "timeline": "Jul'19 – Dec'22",
+        "projectName": " E-commerce Web Platform",
+        "headline1": "Built and optimized a high-traffic e-commerce platform.",
+        "headline2": "Developed a microservices architecture for scalability.",
+        "designation": "Software Engineer (Full Stack Developer)",
         "link": {
-          "linkText": "",
-          "linkUrl": ""
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
         },
-        "skills": "React Native, ReactJS, JS, SASS, HTML, GraphQL, Redux, Saga",
-        "companyName": "Infosys Limited",
-        "images": []
+        "skills": "React.js, Node.js, MongoDB, Docker, AWS",
+        "companyName": "Infosys",
+        "images": [
+          {
+            "fileName": "fs1.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs1.png"
+          },
+          {
+            "fileName": "fs4.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs4.png"
+          },
+          {
+            "fileName": "fs5.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs5.png"
+          }
+        ],
+        "rank": "2"
       }
     ]
   },
@@ -134,17 +172,17 @@
     "displayName": "Qualifications",
     "qualifications": [
       {
-        "timeline": "2016-2020",
+        "timeline": "2015-2019",
         "courseName": " Bachelor of Technology (B.Tech)",
-        "instituteName": "Moradabad Institute of Technology",
-        "specializedIn": "Electronics and Communication Engineering",
-        "yearPassout": "2020",
-        "headline1": "Graduated with First-Class Distinction in B.Tech ECE.",
+        "instituteName": "Indian Institute of Technology (IIT) Bombay",
+        "specializedIn": "Computer Science",
+        "yearPassout": "2019",
+        "headline1": "Graduated with First-Class Distinction in B.Tech CSE.",
         "headline2": "Won Hackathon at IIT Bombay (1st Prize).",
-        "cgpa": "8.75",
+        "cgpa": "9.2",
         "link": {
-          "linkText": "",
-          "linkUrl": ""
+          "linkText": "Degree",
+          "linkUrl": "https://github.com/"
         },
         "images": [],
         "rank": "3"
