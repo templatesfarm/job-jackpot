@@ -18,7 +18,7 @@ export const POST = async (req: NextRequest) => {
     if (env.pwdResetKey && env.pwdResetKey === password) {
       count = limit;
       return NextResponse.json(
-        { message: "Password Reset key is valid" },
+        { message: "PASSWORD_RESET_KEY is valid" },
         { status: 200 }
       );
     }
