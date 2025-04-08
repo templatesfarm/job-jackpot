@@ -25,12 +25,7 @@
     "displayName": "Specialization",
     "skills": [
       {
-        "id": "1740395651799",
-        "name": "Angular",
-        "rating": 7
-      },
-      {
-        "id": "1740395644199",
+        "id": "1744134025357",
         "name": "JavaScript",
         "rating": 8
       },
@@ -38,6 +33,11 @@
         "id": "1740395667382",
         "name": "Redux",
         "rating": 8
+      },
+      {
+        "id": "1740395651799",
+        "name": "Angular",
+        "rating": 7
       },
       {
         "id": "1740395676065",
