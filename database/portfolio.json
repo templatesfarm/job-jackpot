@@ -30,11 +30,6 @@
         "rating": 8
       },
       {
-        "id": "1740395667382",
-        "name": "Redux",
-        "rating": 8
-      },
-      {
         "id": "1740395651799",
         "name": "Angular",
         "rating": 7
@@ -88,6 +83,11 @@
         "id": "1744131454787",
         "name": "ReactJS",
         "rating": 8.5
+      },
+      {
+        "id": "1744187855322",
+        "name": "Redux",
+        "rating": 8
       }
     ],
     "skillAnimationType": "still-animation"
